@@ -13,7 +13,14 @@
     border-radius: 20px;
     margin: 0 auto;
     padding: 20px;
- 
+    margin-top: 40px;
+    padding-bottom: 30px;
+}
+
+#container h1{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 #container input{
@@ -35,7 +42,7 @@
 }
 
 #container button{
-    width: 20%;
+    width: 27%;
     height: 50px;
     padding: 5px;
     border-radius: 10px;
@@ -85,3 +92,6 @@ div .commentFun{
 
 }
 
+div .commentFun:hover{
+    cursor: pointer;
+}
