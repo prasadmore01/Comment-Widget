@@ -12,7 +12,6 @@
     border: 1px solid black;
     border-radius: 20px;
     margin: 0 auto;
-    
     padding: 20px;
  
 }
@@ -22,7 +21,7 @@
     height: 50px;
     padding: 5px;
     border-radius: 10px;
-    border: none;
+    border: 1px solid gray;
     box-shadow: 0px 5px 5px 0px black;
     margin-right: 5px;
     transition-duration: .9s;
@@ -53,3 +52,5 @@
     cursor: pointer;
     box-shadow: none;
 }
+
+/* Comment Styling */
