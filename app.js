@@ -5,6 +5,7 @@ button.addEventListener("click",()=>{
 
     let mainDiv = document.getElementById("comment")
     let div = document.createElement('div')
+    div.classList.add("comments")
     let comment = document.createElement("h3")
     comment.innerHTML = input.value
 
